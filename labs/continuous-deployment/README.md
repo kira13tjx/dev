@@ -5,7 +5,7 @@ There's a lot to do here. Developers often need to pick up something that's new 
 In this lab we'll create a service in the cloud to run a web application, and set up Continuous Deployment to releases updates to the app in an automated way.
 
 ---
-**This lab is optional - you need a credit card to sign up to the cloud. You won't be charged, but if you'd prefer not to follow along it's fine, you can watch me instead.** 
+**This lab is NOT optional - you need a credit card to sign up to the cloud. You won't be charged, but if you'd prefer not to follow along it's fine, you can watch me instead.** 
 
 ---
 
